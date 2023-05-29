@@ -2,8 +2,19 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: rgb(5, 110, 110);
     text-align: center;
+    font-size: large;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 #MainHeader {
 color:rgb(255, 255, 255);
+}
+
+.trading {
+    color: rgba(223, 255, 202, 0.665);
+}
+
+.coding {
+    color: rgba(255, 209, 153, 0.775);
 }
