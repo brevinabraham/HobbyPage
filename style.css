@@ -1,6 +1,7 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: rgb(5, 110, 110);
+    color: white;
     text-align: center;
     font-size: large;
     padding-left: 5%;
@@ -8,7 +9,11 @@ body {
 }
 
 #MainHeader {
-color:rgb(255, 255, 255);
+    color:rgb(255, 255, 255);
+}
+
+.embodytradingcoding {
+    
 }
 
 .trading {
